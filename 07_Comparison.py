@@ -9,3 +9,7 @@ print (ord('a'))
 print (ord('c'))
 
 print (ord('a') != ord('c'))
+
+#practice que
+
+print ((456 == 456) != (45 < 23))
